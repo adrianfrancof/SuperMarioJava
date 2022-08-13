@@ -1,6 +1,6 @@
-# Título del Proyecto
+# SuperMarioJava
 
-SuperMariiJava
+SuperMarioJava
 
 _Básico juego de Super Mario Bros hecho en Java.
 El objetivo es recolectar todas las monedas de cada nivel._
