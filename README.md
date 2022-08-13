@@ -1,26 +1,65 @@
-SuperMarioJava
-==============
+# Título del Proyecto
 
-Basic Super Mario Bros made in Java.
-The aim of this game is to collect all the coins of the levels.
+SuperMariiJava
 
-Go here if you want to see a gameplay:
-http://programmingheroes.blogspot.com.es/2013/05/remake-super-mario-java.html
+_Básico juego de Super Mario Bros hecho en Java.
+El objetivo es recolectar todas las monedas de cada nivel._
 
------------------------------------------------------------------------------
+## Comenzando 🚀
 
-Básico juego de Super Mario Bros hecho en Java.
-El objetivo es recolectar todas las monedas de cada nivel.
+_Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
 
-Para ver un vídeo del juego en funcionamiento puedes visitar:
-http://programmingheroes.blogspot.com.es/2013/05/remake-super-mario-java.html
+Mira **Deployment** para conocer como desplegar el proyecto.
 
------------------------------------------------------------------------------
+
+### Pre-requisitos 📋
+
+_Que necesitas para instalar el software y como instalarlas_
+
+```
+IDE Eclipse, Spring Tool Suite, IntelliJ
+```
+```
+Java 17, Java 8.
+```
+```
+Lombok
+```
+```
+JAVA_HOME, MAVEN_HOME para las variables de entorno
+```
+### Instalación 🔧
+
+```
+Importar proyecto al IDE de preferencia para ejecutar en servidor.
+```
+```
+
+## Deployment 📦
+
+Realizar un fork o clon del proyecto, importar al IDE de preferencia, para ejecutar en consola realizar el build (empaquetado) de la aplicación.
+
+## Construido con 🛠️
+
+* [Java]()
+* [POO]()
+
+## Contribuyendo 🖇️
+
+Por favor lee el [CONTRIBUTING.md](https://github.com/adrianfrancof/SuperMarioJava.git) para detalles de nuestro código de conducta, y el proceso para enviarnos pull requests.
+
+## Versionado 📌
+
+## Autores ✒️
+
+https://github.com/adrianfrancof
+
+## Licencia 📄
+
+Este proyecto está bajo la Licencia [MIT license](https://github.com/adrianfrancof/SuperMarioJava/blob/main/LICENSE.txt).
+
+Este proyecto está bajo la Licencia - mira el archivo [LICENSE.txt](LICENSE.txt) para detalles
 
 ## Screenshots
 
-![](https://images-blogger-opensocial.googleusercontent.com/gadgets/proxy?url=http://1.bp.blogspot.com/-khsDa-q-Dd8/U5pM21ZJpdI/AAAAAAAAK0A/2LkrXeCV8f8/s1600/Sin%2Bt%25C3%25ADtulo.png&container=blogger&gadget=a&rewriteMime=image/*)
-
-![](https://images-blogger-opensocial.googleusercontent.com/gadgets/proxy?url=http://3.bp.blogspot.com/-iQHGVdGC98I/U5pM22u2jkI/AAAAAAAAKz0/OWCP6X6uVJ0/s1600/Sin%2Bt%25C3%25ADtulo1.png&container=blogger&gadget=a&rewriteMime=image/*)
-
-![](https://images-blogger-opensocial.googleusercontent.com/gadgets/proxy?url=http://3.bp.blogspot.com/-cLKQMJDKJIs/U5pM2xMnu_I/AAAAAAAAKzw/O3oger-2b3g/s1600/Sin%2Bt%25C3%25ADtulo2.png&container=blogger&gadget=a&rewriteMime=image/*)
+![](https://*)
