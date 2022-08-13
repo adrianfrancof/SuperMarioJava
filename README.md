@@ -33,7 +33,6 @@ JAVA_HOME, MAVEN_HOME para las variables de entorno
 ```
 Importar proyecto al IDE de preferencia para ejecutar en servidor.
 ```
-```
 
 ## Deployment 📦
 
